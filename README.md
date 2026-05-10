@@ -6,16 +6,6 @@ A dedicated cloud security portfolio covering Azure identity and access security
 
 ---
 
-## Why Cloud Security
-
-Security governance without cloud security knowledge is incomplete. Modern organisations rely on cloud-native controls such as IAM, MFA, RBAC, Conditional Access, logging, monitoring, and posture management to protect data, systems, and business operations.
-
-For GRC work to be effective, policies, risk assessments, ISO/IEC 27001 controls, and audit requirements must connect clearly with how security is actually implemented in cloud environments. This is where cloud security knowledge adds real value, it helps translate governance requirements into practical technical controls that can be configured, monitored, evidenced, and improved.
-
-My goal is to build capability across both areas: understanding governance and compliance expectations, while developing the technical cloud security skills needed to support secure, auditable, and well-controlled Azure and AWS environments.
-
----
-
 ## 🔬 Planned Lab Areas
 
 | Lab Area | Focus |
