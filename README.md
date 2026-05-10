@@ -47,28 +47,6 @@ cloud-security-labs/
 ```
 ---
 
-## 🛠️ Skills Being Developed
-
-**Identity and Access**
-`Microsoft Entra ID` · `RBAC` · `Conditional Access` · `MFA Enforcement` · `Least Privilege` · `Privileged Identity Management (PIM)` · `JIT / JEA Concepts`
-
-**Cloud Security Monitoring**
-`Microsoft Defender for Cloud` · `Microsoft Sentinel` · `Log Analytics Workspaces` · `Audit Trails` · `Diagnostic Settings` · `Alert Rules`
-
-**Cloud Governance**
-`Azure Policy` · `Security Posture Management` · `Cloud Security Governance` · `ISO/IEC 27001 Annex A Mapping` · `Cloud Migration Risk Assessment`
-
-**AWS Fundamentals**
-`AWS IAM` · `Least Privilege Policy Design` · `IAM Roles and Policies` · `Cross-Platform Access Governance`
-
-**Certification in Progress**
-`AZ-500 Microsoft Azure Security Engineer` *(in preparation)*
-
-**Certifications Held**
-`SC-900 Microsoft Security, Compliance & Identity Fundamentals` · `ISO/IEC 27001:2022 Lead Implementer` · `ISO 31000 Enterprise Risk Manager`
-
----
-
 ## ⚠️ Disclaimer
 
 All labs in this repository are simulation-based and built in isolated personal learning environments. No real production systems, credentials, client data, or organisational infrastructure are used or referenced.
