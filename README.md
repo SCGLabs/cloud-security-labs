@@ -2,29 +2,31 @@
 
 **SCGLabs — Security, Cloud & Governance Labs**
 
-A dedicated cloud security portfolio repository covering Azure identity and access security, cloud governance, logging and monitoring, and practical security controls — built as part of an active AZ-500 preparation and cloud security learning journey.
+A dedicated cloud security portfolio covering Azure identity and access security, cloud governance, logging and monitoring, and practical security controls — built as part of active AZ-500 preparation and an ongoing cloud security learning journey.
 
 ---
 
 ## Why Cloud Security
 
-Security governance without cloud security knowledge is incomplete. Modern organisations operate across hybrid and multi-cloud environments, and the controls that protect them — identity, access, logging, monitoring, and posture management — are increasingly cloud-native.
+Security governance without cloud security knowledge is incomplete. Modern organisations rely on cloud-native controls such as IAM, MFA, RBAC, Conditional Access, logging, monitoring, and posture management to protect data, systems, and business operations.For GRC work to be effective, policies, risk assessments, ISO/IEC 27001 controls, and audit requirements must connect clearly with how security is actually implemented in cloud environments. This is where cloud security knowledge adds real value — it helps translate governance requirements into practical technical controls that can be configured, monitored, evidenced, and improved.
 
-My background is in GRC and ISO/IEC 27001:2022 implementation. This repository represents the practical, technical side of that work: understanding how the controls I govern and document are actually configured and enforced in Azure and AWS environments. The goal is to become effective across both the governance layer and the technical controls that underpin it.
+My goal is to build capability across both areas: understanding the governance and compliance expectations, while also developing the technical cloud security skills needed to support secure, auditable, and well-controlled Azure and AWS environments.
 
 ---
 
 ## 🎯 Current Focus
 
-This repository is actively being developed as part of my **AZ-500 Microsoft Azure Security Engineer** preparation and broader cloud security skills development.
+This repository is actively being built as part of my **AZ-500 Microsoft Azure Security Engineer** preparation and broader cloud security development.
 
-Current priorities:
-
-- **AZ-500 exam preparation** — working through Microsoft Learn paths and supplementary study materials
-- **Azure identity and access security** — Entra ID, MFA, Conditional Access, RBAC, and least privilege configuration
-- **Cloud security monitoring** — Microsoft Defender for Cloud posture review and Microsoft Sentinel log management
-- **Cloud security governance** — connecting technical Azure controls back to ISO/IEC 27001:2022 Annex A and GRC frameworks
-- **AWS IAM fundamentals** — least privilege policy design and comparison with Azure RBAC approaches
+- **AZ-500 exam preparation** — Microsoft Learn paths and supplementary study
+- **Azure Entra ID** — identity governance, directory roles, and user provisioning
+- **MFA and Conditional Access** — policy configuration and enforcement
+- **RBAC and least privilege** — role assignment, scope management, and access reviews
+- **Microsoft Defender for Cloud** — posture baseline and secure score review
+- **Microsoft Sentinel basics** — log ingestion, analytics rules, and incident alerting
+- **Logging and audit trails** — diagnostic settings, activity logs, and audit trail configuration
+- **Cloud security governance** — mapping Azure controls to ISO/IEC 27001:2022 Annex A
+- **AWS IAM fundamentals** — least privilege policy design and comparison with Azure RBAC
 
 ---
 
@@ -35,12 +37,12 @@ Current priorities:
 | Azure Entra ID Identity Security | User provisioning, identity governance, directory roles |
 | MFA and Conditional Access | Enforcing MFA, building Conditional Access policies, named locations |
 | RBAC and Least Privilege | Role assignment, custom roles, scope management, access reviews |
-| Privileged Access Concepts | PIM concepts, JIT access, JEA principles |
+| Privileged Access Concepts | PIM, JIT access, JEA principles |
 | Microsoft Defender for Cloud | Security posture baseline, recommendations, secure score |
 | Microsoft Sentinel Basics | Log ingestion, analytics rules, incident alerting |
 | Logging and Audit Trails | Diagnostic settings, activity logs, audit trail configuration |
 | Cloud Security Governance | Mapping Azure controls to ISO 27001 Annex A and GRC frameworks |
-| Cloud Migration Risk Assessment | Risk identification during cloud adoption scenarios |
+| Cloud Migration Risk Assessment | Security risk identification during cloud adoption scenarios |
 | AWS IAM Least Privilege | Policy design, IAM best practices, comparison with Azure RBAC |
 
 ---
@@ -58,7 +60,7 @@ cloud-security-labs/
 └── aws-iam-least-privilege-notes/
 ```
 
-Each folder will contain lab notes, configuration documentation, screenshots, and where relevant, policy templates or summary write-ups — structured so that the work is reviewable without needing to replicate the environment.
+Each folder will contain lab notes, configuration summaries, screenshots, and short write-ups as work is completed and documented.
 
 ---
 
@@ -76,7 +78,7 @@ Each folder will contain lab notes, configuration documentation, screenshots, an
 **AWS Fundamentals**
 `AWS IAM` · `Least Privilege Policy Design` · `IAM Roles and Policies` · `Cross-Platform Access Governance`
 
-**Certifications in Progress**
+**Certification in Progress**
 `AZ-500 Microsoft Azure Security Engineer` *(in preparation)*
 
 **Certifications Held**
@@ -84,41 +86,9 @@ Each folder will contain lab notes, configuration documentation, screenshots, an
 
 ---
 
-## 👔 How Recruiters Can Review This Repository
-
-This repository is designed to be readable without running anything. Each lab folder will include:
-
-- A `README.md` explaining the lab objective, approach, and what it demonstrates
-- Configuration documentation or policy templates where applicable
-- Screenshots of key outputs or findings
-- A short summary of what the work demonstrates in a professional context
-
-If you are reviewing this repository for a **GRC Analyst**, **Cloud Security Analyst**, or **Cybersecurity Governance** role, the [governance-grc-labs](https://github.com/SCGLabs/governance-grc-labs) repository contains my ISO/IEC 27001:2022 ISMS implementation portfolio and may be relevant reading alongside this one.
-
----
-
-## 🗺️ Status and Roadmap
-
-| Area | Status |
-|---|---|
-| Repository structure and README | ✅ Complete |
-| AZ-500 study — Identity and Access Management | 🔄 In Progress |
-| AZ-500 study — Platform Protection | 🔄 In Progress |
-| `azure-iam-rbac-lab` | 🔄 In Progress |
-| `entra-id-mfa-conditional-access` | 📋 Planned |
-| `defender-for-cloud-baseline` | 📋 Planned |
-| `sentinel-logging-monitoring` | 📋 Planned |
-| `cloud-governance-risk-assessment` | 📋 Planned |
-| `aws-iam-least-privilege-notes` | 📋 Planned |
-| AZ-500 examination | 📋 Planned |
-
-This repository will be updated progressively as labs are completed, documented, and reviewed.
-
----
-
 ## ⚠️ Disclaimer
 
-All labs in this repository are simulation-based and built in isolated personal learning environments. No real production systems, credentials, client data, or organisational infrastructure are used or referenced. Work is created for skills development and portfolio purposes only.
+All labs in this repository are simulation-based and built in isolated personal learning environments. No real production systems, credentials, client data, or organisational infrastructure are used or referenced.
 
 ---
 
