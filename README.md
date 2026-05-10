@@ -14,22 +14,6 @@ My goal is to build capability across both areas: understanding the governance a
 
 ---
 
-## 🎯 Current Focus
-
-This repository is actively being built as part of my **AZ-500 Microsoft Azure Security Engineer** preparation and broader cloud security development.
-
-- **AZ-500 exam preparation** — Microsoft Learn paths and supplementary study
-- **Azure Entra ID** — identity governance, directory roles, and user provisioning
-- **MFA and Conditional Access** — policy configuration and enforcement
-- **RBAC and least privilege** — role assignment, scope management, and access reviews
-- **Microsoft Defender for Cloud** — posture baseline and secure score review
-- **Microsoft Sentinel basics** — log ingestion, analytics rules, and incident alerting
-- **Logging and audit trails** — diagnostic settings, activity logs, and audit trail configuration
-- **Cloud security governance** — mapping Azure controls to ISO/IEC 27001:2022 Annex A
-- **AWS IAM fundamentals** — least privilege policy design and comparison with Azure RBAC
-
----
-
 ## 🔬 Planned Lab Areas
 
 | Lab Area | Focus |
