@@ -8,9 +8,11 @@ A dedicated cloud security portfolio covering Azure identity and access security
 
 ## Why Cloud Security
 
-Security governance without cloud security knowledge is incomplete. Modern organisations rely on cloud-native controls such as IAM, MFA, RBAC, Conditional Access, logging, monitoring, and posture management to protect data, systems, and business operations.For GRC work to be effective, policies, risk assessments, ISO/IEC 27001 controls, and audit requirements must connect clearly with how security is actually implemented in cloud environments. This is where cloud security knowledge adds real value — it helps translate governance requirements into practical technical controls that can be configured, monitored, evidenced, and improved.
+Security governance without cloud security knowledge is incomplete. Modern organisations rely on cloud-native controls such as IAM, MFA, RBAC, Conditional Access, logging, monitoring, and posture management to protect data, systems, and business operations.
 
-My goal is to build capability across both areas: understanding the governance and compliance expectations, while also developing the technical cloud security skills needed to support secure, auditable, and well-controlled Azure and AWS environments.
+For GRC work to be effective, policies, risk assessments, ISO/IEC 27001 controls, and audit requirements must connect clearly with how security is actually implemented in cloud environments. This is where cloud security knowledge adds real value — it helps translate governance requirements into practical technical controls that can be configured, monitored, evidenced, and improved.
+
+My goal is to build capability across both areas: understanding governance and compliance expectations, while developing the technical cloud security skills needed to support secure, auditable, and well-controlled Azure and AWS environments.
 
 ---
 
@@ -33,7 +35,7 @@ My goal is to build capability across both areas: understanding the governance a
 
 ## 📁 Repository Structure
 
-```
+```text
 cloud-security-labs/
 ├── README.md
 ├── azure-iam-rbac-lab/
@@ -43,9 +45,6 @@ cloud-security-labs/
 ├── cloud-governance-risk-assessment/
 └── aws-iam-least-privilege-notes/
 ```
-
-Each folder will contain lab notes, configuration summaries, screenshots, and short write-ups as work is completed and documented.
-
 ---
 
 ## 🛠️ Skills Being Developed
